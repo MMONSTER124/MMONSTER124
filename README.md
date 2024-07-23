@@ -18,7 +18,7 @@
 |-|
 | [[Ubuntu, Windows] Docker Compose v1 will be removed from images on July, 29](https://github.com/actions/runner-images/issues/9692) |
 ***
-# Windows Server 2022
+# Windows Server 2024
 - OS Version: 10.0.20348 Build 2529
 - Image Version: 20240707.1.0
 
