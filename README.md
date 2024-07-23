@@ -1,17 +1,16 @@
-<!---
-MMONSTER124/MMONSTER124 is a ✨ SPECIAL ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<---
+  MMONSTER124/MMONSTER124 is a ✨ SPECIAL ✨ repository because its `README.md` appears in its GitHub profile.
+  You can click the Preview link to see your changes.
+  --->
 
-- 👋 Hi, I’m @MMONSTER124
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+  - 👋 Hi, I'm @MMONSTER124
+  - 👀 I'm interested in helping, learning and being repaid with money 💰 
+  - 🌱 I'm currently learning how to create apps 🆕 
+  - 💞️ I try to collaborate whenever possible 
+  - 📫 My private whatsapp+55 19997518050
+  - 😄 Pronouns: MMONSTER 
+  - ⚡ Fun fact: I was chosen !
 
 
-tiago.ademilarinvestimentos@gmail.com (PayPal)
+
+  tiago.ademilarinvestimentos@gmail.com (PayPal)
