@@ -14,5 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-reply+BIHFVI6GPOKOBAVOAEXJDJGESXCKTEVBNHHI5LUA6M@reply.github.com
+tiago.ademilarinvestimentos@gmail.com (PayPal)
