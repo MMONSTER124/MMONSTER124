@@ -10,7 +10,25 @@
 <!---MMONSTER124/MMONSTER124 is a ✨ SPECIAL ✨ repository because its `README.md` appears in its GitHub profile.
   You can click the Preview link to see your changes.--->
 
+**ready for Merge** 
+MMONSTER124 
+ORIGINAL REPOSITORY, UPDATED 
 
+Copyright (c) 2024 ™️💱
+
+License
+MIT License
+Code of Conduct
+Code of Conduct
+1037 stars
+708 forks
+1324 watching
+9 Branches
+99 Tags
+Active Activity highlighted for simplicity 
+Public repository
+
+**Requests _$_ SPONSORSHIP for continuous improvement**
 
   mmonstersti@gmail.com (PayPal)
 
