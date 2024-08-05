@@ -1,0 +1,17 @@
+{
+  "AccountIndex" : 2592906,
+  "AccountIdHash" : "0fa4571185a72f98ae7fe6f3ba1dafe4c40c495e89e4f4ed951d3d14725e86f2",
+  "TotalEquity" : 4287399285800000,
+  "TotalDebt" : 3442722385200000,
+  "Assets" : [ {
+    "Index" : 2,
+    "Equity" : 4053,
+    "Debt" : 19
+  }, {
+    "Index" : 148,
+    "Equity" : 3127886,
+    "Debt" : 2587484
+  } ],
+  "Root" : "272cafea86240006f4e0d08502ff06d55e386202a48c38eab98304f43ec54266",
+  "
+[README.md](https://github.com/user-attachments/files/16397935/README.md)
